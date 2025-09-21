@@ -1,0 +1,1 @@
+# politics-party-management
